@@ -2,3 +2,4 @@ Test
 Test2
 Creating a new branch is quick, simple, and elegant.
 Test3
+Test4
